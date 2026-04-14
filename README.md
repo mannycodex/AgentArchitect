@@ -30,15 +30,15 @@ Research, Triage, Drafting, Review, Extraction, Orchestrator. See `agent-archite
 If you use or adapt Agent Architect, please cite it:
 
 ```
-Cordero, M. (2026). Agent Architect: A meta-agent for designing, specifying,
+Manuel (2026). Agent Architect: A meta-agent for designing, specifying,
 and shipping other agents. GitHub. https://github.com/mannycodex/AgentArchitect
 ```
 
 BibTeX:
 
 ```bibtex
-@misc{cordero2026agentarchitect,
-  author       = {Cordero, Manuel},
+@misc{manuel2026agentarchitect,
+  author       = {Manuel},
   title        = {Agent Architect: A meta-agent for designing, specifying, and shipping other agents},
   year         = {2026},
   howpublished = {\url{https://github.com/mannycodex/AgentArchitect}}
